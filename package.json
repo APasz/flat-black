@@ -15,6 +15,10 @@
 	"publisher": "APasz",
 	"license": "MIT",
 	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/APasz/flat-black"
+	},
     "contributes": {
         "themes": [
             {
