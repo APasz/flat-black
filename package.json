@@ -2,7 +2,7 @@
     "name": "flat-black",
     "displayName": "Flat Black",
     "description": "There wasn't a theme that had the balance I was looking for so I made my own. It'll change as time goes on, especially as I use different languages.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -10,15 +10,15 @@
         "Themes"
     ],
     "author": {
-		"name": "APasz"
-	},
-	"publisher": "APasz",
-	"license": "MIT",
-	"icon": "icon.png",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/APasz/flat-black"
-	},
+        "name": "APasz"
+    },
+    "publisher": "APasz",
+    "license": "MIT",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/APasz/flat-black"
+    },
     "contributes": {
         "themes": [
             {
